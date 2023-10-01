@@ -5,7 +5,7 @@ Department of ECE, Aarhus University. My [personal website](http://prasad.talasi
 
 ### Collaboration 🤝
 
-🔭 I’m currently working on ...[Digital Twin as a Service](https://github.com/into-cps-association/DTaaS) project.
+🔭 I’m currently working on [Digital Twin as a Service](https://github.com/into-cps-association/DTaaS) project.
 That is an excellent place to explore collaboration opportunity.
 
 👨‍🔬 These days I spend time researching and prototyping ideas on Digital Twins, Cyber Physical Systems
@@ -14,11 +14,11 @@ and Distributed Computing for Manufacturing SMEs. You will find more details fro
 
 🤹‍♂️ I'm always looking for interesting commercial problems to apply my professional expertise. I have been a technology consultant primarily for European companies for the past five years. This is an area of enduring interest to me.
 
-### 🔥 Github Activity
+### Github Activity 🔥
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prasadtalasila)](https://git.io/streak-stats)
 
-### :hammer_and_wrench: Software Development Skills
+### Software Development Skills :hammer_and_wrench:
 
 | Area | Languages, Tools and Developer Environments |
 |:---|:---|
@@ -32,7 +32,7 @@ and Distributed Computing for Manufacturing SMEs. You will find more details fro
 
 It would have nice to have one technology for each row, but life is complicated. 🤷‍♂️
 
-### A Graph of My Life
+### My Life 🚶
 
 ```mermaid
 mindmap
@@ -87,4 +87,4 @@ mindmap
         Guntur
 ```
 
-#### ⚡ Fun fact: I prefer programming over watching TV.
+#### Fun fact ⚡: I prefer programming over watching TV.
