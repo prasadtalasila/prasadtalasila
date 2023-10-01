@@ -87,4 +87,4 @@ mindmap
         Guntur
 ```
 
-#### Fun fact ⚡: I prefer programming over watching TV.
+#### Fun fact ⚡ I prefer programming over watching TV.
