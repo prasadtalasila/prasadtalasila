@@ -65,12 +65,19 @@ mindmap
         Social Network Analysis
             IRC Channels
             Mailing Lists
-        Measurements
+    Teach
+      BITS, Pilani
+        Object Oriented Programming
+          Java
+        Internetworking Technologies
+          Network Design
+          Networks in Cloud
+          Protocol Design
+        Computer Networks
+      RVRJC College of Engineering
+        POSIX Programming
     Education
       BITS, Pilani
-      RVRJC College of Engineering
-      Vignan Junior College
-      Viswabharati Vidyaniketan
     Places
       Aarhus, Denmark
       India
