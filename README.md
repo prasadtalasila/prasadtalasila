@@ -32,4 +32,51 @@ and Distributed Computing for Manufacturing SMEs. You will find more details fro
 
 It would have nice to have one technology for each row, but life is complicated. 🤷‍♂️
 
+### A Graph of My Life
+
+```mermaid
+mindmap
+  root((Me))
+    Software
+        digital Twin as a Service
+        Networks
+            IRCLogParser
+            MLCAT
+            BITS-Darshini
+            Transport Scheduler      
+    Research
+      Digital Twins
+        Uses
+            Software Engineering
+            Distributed Systems
+            Control Theory
+        Projects
+            DIGITbrain
+            CPSENS
+      Cyber Physical Systems
+        Focus
+            Industrial Manufactuers
+        Projects
+            HUBCAP
+      Networks
+        Graph Theory
+        Measurements
+            Protocol analysis
+        Social Network Analysis
+            IRC Channels
+            Mailing Lists
+        Measurements
+    Education
+      BITS, Pilani
+      RVRJC College of Engineering
+      Vignan Junior College
+      Viswabharati Vidyaniketan
+    Places
+      Aarhus, Denmark
+      India
+        Goa
+        Pilani
+        Guntur
+```
+
 #### ⚡ Fun fact: I prefer programming over watching TV.
