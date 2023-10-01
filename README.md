@@ -38,12 +38,12 @@ It would have nice to have one technology for each row, but life is complicated.
 mindmap
   root((Me))
     Software
-        digital Twin as a Service
-        Networks
-            IRCLogParser
-            MLCAT
-            BITS-Darshini
-            Transport Scheduler      
+      digital Twin as a Service
+      Networks
+        IRCLogParser
+        MLCAT
+        BITS Darshini
+        Transport Scheduler      
     Research
       Digital Twins
         Uses
