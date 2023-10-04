@@ -14,10 +14,6 @@ and Distributed Computing for Manufacturing SMEs. You will find more details fro
 
 🤹‍♂️ I'm always looking for interesting commercial problems to apply my professional expertise. I have been a technology consultant primarily for European companies for the past five years. This is an area of enduring interest to me.
 
-### Github Activity 🔥
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prasadtalasila)](https://git.io/streak-stats)
-
 ### Software Development Skills :hammer_and_wrench:
 
 | Area | Languages, Tools and Developer Environments |
